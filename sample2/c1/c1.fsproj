@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <PackageReference Include="FSharp.Core" Version="4.1.*" />
-    <PackageReference Include="FSharp.NET.Sdk" Version="1.0.*" PrivateAssets="All" />
+    <PackageReference Include="FSharp.NET.Sdk" Version="1.0.4-*" PrivateAssets="All" />
     <ProjectReference Include="..\csl1\csl1.csproj" />
   </ItemGroup>
 
