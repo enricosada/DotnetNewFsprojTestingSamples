@@ -13,6 +13,7 @@
     <PackageReference Include="FSharp.NET.Sdk" Version="1.0.*" PrivateAssets="All" />
     <PackageReference Include="FSharp.Core" Version="4.1.*" />
     <ProjectReference Include="..\l1\l1.fsproj" />
+    <ProjectReference Include="..\l2\l2.fsproj" />
   </ItemGroup>
 
 </Project>
