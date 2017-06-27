@@ -1,5 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>01cc2abd-3f56-45f1-9eac-e23e4569c8b5</ProjectGuid>
+  </PropertyGroup>
+
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <MyCustomProp>custom value</MyCustomProp>
